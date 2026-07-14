@@ -47,6 +47,10 @@ CAD (Blender)/
 Research/
 Media/
 
+## Project Philosophy
+
+Project Zephyraquus is built using an iterative engineering process. Every prototype version captures the rationale behind design decisions, lessons learned from unsuccessful approaches, and improvements implemented in subsequent iterations.
+
 ---
 
 Author: Kavin Kabir Chopra
