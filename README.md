@@ -1,6 +1,6 @@
 # Project Zephyraquus
 
-Project Zephyraquus is an engineering project focused on the design, prototyping, and documentation of an experimental eight-motor distributed electric propulsion platform for studying flight control, power distribution, and autonomous systems.
+Project Zephyraquus is an experimental engineering project focused on the design, prototyping, and documentation of an eight-motor distributed electric propulsion platform for studying flight control, power distribution, and autonomous systems.
 
 ## Safety
 
@@ -21,7 +21,7 @@ Latest Milestone:
 
 ## Engineering Notebook
 
-Every major engineering iteration is documented in the engineering notebook. Each version captures the design goals, engineering decisions, challenges encountered, and supporting figures for that stage of development.
+Every major engineering iteration is documented in the Engineering Notebook. Each version captures the design goals, engineering decisions, challenges encountered, and supporting figures for that stage of development.
 
 | Version | Summary |
 |---------|---------|
