@@ -1,2 +1,52 @@
-# Project-Zephyraquus
-Engineering notebook, hardware, firmware, and documentation for Project Zephyraquus, an experimental distributed electric propulsion platform.
+# Project Zephyraquus
+
+Project Zephyraquus is an engineering project focused on the design, prototyping, and documentation of an experimental eight-motor distributed electric propulsion platform for studying flight control, power distribution, and autonomous systems.
+
+## Safety
+
+Project Zephyraquus is an experimental educational engineering project.
+
+The current prototype is intended solely for laboratory experimentation and engineering learning. It is not designed or intended for human flight or transportation.
+
+## Project Status
+
+Current Prototype: V0.4
+
+Status: Active Development
+
+Latest Milestone:
+- Designing power distribution
+- ESC mounting
+- Flight controller integration
+
+## Engineering Notebook
+
+Every major engineering iteration is documented in the engineering notebook. Each version captures the design goals, engineering decisions, challenges encountered, and supporting figures for that stage of development.
+
+| Version | Summary |
+|---------|---------|
+|   V0.1  | Mechanical layout |
+|   V0.2  | Electronics layout |
+|   V0.3  | Wiring architecture |
+|   V0.4  | ESC mounting & power routing |
+
+## Goals
+
+- Design an eight-motor propulsion platform
+- Develop a modular electrical architecture
+- Implement flight control software
+- Document every engineering iteration
+- Learn through experimentation and testing
+
+## Repository Structure
+
+Engineering-Notebook/
+Electronics/
+Firmware/
+CAD (Blender)/
+Research/
+Media/
+
+---
+
+Author: Kavin Kabir Chopra
