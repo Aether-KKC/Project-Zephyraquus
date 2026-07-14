@@ -16,8 +16,6 @@ Status: Active Development
 
 Latest Milestone:
 - Designing power distribution
-- ESC mounting
-- Flight controller integration
 
 ## Engineering Notebook
 
