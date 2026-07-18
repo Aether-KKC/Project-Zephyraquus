@@ -6,7 +6,7 @@ Project Zephyraquus is an experimental engineering project focused on the design
 
 Project Zephyraquus is an experimental educational engineering project.
 
-The current prototype is intended solely for laboratory experimentation and engineering learning. It is not designed or intended for human flight or transportation.
+The current prototype is intended solely for laboratory experimentation and engineering learning and it is not designed or intended for human flight or transportation.
 
 ## Project Status
 
@@ -41,12 +41,12 @@ Every major engineering iteration is documented in the Engineering Notebook. Eac
 ## Repository Structure
 
 ```text
-Engineering-Notebook/
-Electronics/
-Firmware/
 CAD/
-Research/
+Electronics/
+Engineering-Notebook/
+Firmware/
 Media/
+Research/
 ```
 
 ## Project Philosophy
@@ -55,4 +55,4 @@ Project Zephyraquus is built using an iterative engineering process. Every proto
 
 ---
 
-Author: Kavin Kabir Chopra
+Author: Kavin Kabir Chopra 
