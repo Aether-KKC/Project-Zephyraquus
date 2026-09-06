@@ -22,7 +22,7 @@ Current Focus:
 
 ## Engineering Notebook
 
-Every major engineering iteration is documented in the Engineering Notebook. Each version captures the design goals, engineering decisions, challenges encountered, and supporting figures for that stage of development.
+Completed engineering iterations are documented in the Engineering Notebook. Each version captures the design goals, engineering decisions, challenges encountered, and supporting figures for that stage of development.
 
 | Version | Summary |
 |---------|---------|
