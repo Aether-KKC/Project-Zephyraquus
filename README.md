@@ -10,14 +10,15 @@ The current prototype is intended solely for laboratory experimentation and engi
 
 ## Project Status
 
-Current Prototype: V0.4
+Current Prototype: V0.5
 
 Status: Active Development
 
 Current Focus:
-- ESC mounting
-- Power distribution
-- Electrical assembly
+- Custom power cable fabrication
+- ESC electrical integration
+- Final wiring and cable routing
+- Pre-power electrical verification
 
 ## Engineering Notebook
 
